@@ -10,7 +10,7 @@ AI & Machine Learning Engineer from Peru. I build end-to-end ML systems, from da
 
 ### Tech I work with
 
-`Python` `PyTorch` `TensorFlow` `YOLO` `AWS (SageMaker, Lambda)` `ROS` `Docker` `Django` `C++` `LLMs`
+`Python` `C++` `TypeScript` `PyTorch` `OpenCV` `YOLO` `ONNX` `ROS` `AWS` `FastAPI` `Django` `React` `PostgreSQL` `Docker`
 
 ### Let's connect
 
