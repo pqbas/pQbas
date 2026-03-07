@@ -1,24 +1,17 @@
-## Hi there 👋
+## Hi, I'm Percy Cubas
 
-Hello, I'm Percy, here I upload my opensource projects related to Machine Learning, 
-Data Science, or Robotics. I hope you find something interesting.
+AI & Machine Learning Engineer from Peru. I build end-to-end ML systems — from data acquisition and model training to cloud deployment — with a focus on computer vision, LLMs, and robotics.
 
-- ⚡ I’m currently working on Indra!!!
-- 🔭 I’m looking to collaborate on Reinforcment Learning projects
-- 💬 Ask me about Computer Vision and Artificial Vision (like CNNs)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/percy-cubas/) 
+### What I'm working on
 
-<!--
-**pQbas/pQbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **AI Engineer @ Indra** — Defect detection pipelines, Agentic RAG platforms, and automated QA systems
+- **CV Engineer @ LABINM - UPAO** — Precision agriculture research with ROS-based mobile robots
+- **[LabelFlow](https://github.com/pQbas/label-flow)** — Open-source video annotation tool with optical flow propagation
 
-Here are some ideas to get you started:
+### Tech I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Python` `PyTorch` `TensorFlow` `YOLO` `AWS (SageMaker, Lambda)` `ROS` `Docker` `Django` `C++` `LLMs`
+
+### Let's connect
+
+[Portfolio](https://pqbas.github.io) | [LinkedIn](https://www.linkedin.com/in/percy-cubas/) | pcubasm1@gmail.com
