@@ -1,6 +1,6 @@
 ## Hi, I'm Percy Cubas
 
-DL, ML & CV Engineer with 4 years of experience across academia and industry, building machine learning systems and taking them to production, with a focus on optimized inference, versioned training cycles, and reproducible data pipelines.
+Engineer with 4 years of experience across academia and industry, developing AI and CV based systems with a focus on optimized inference, versioned training cycles, and reproducible data pipelines.
 
 ### What I'm working on
 
