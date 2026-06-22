@@ -1,6 +1,6 @@
 ## Hi, I'm Percy Cubas
 
-Computer Vision / AI Engineer from Peru. I take detection and segmentation systems end to end, from data acquisition and training to optimized inference on edge and cloud.
+AI Engineer with 4 years of experience across academia and industry, building machine learning systems and taking them to production, with a focus on optimized inference, versioned training cycles, and reproducible data pipelines.
 
 ### What I'm working on
 
