@@ -1,16 +1,22 @@
 ## Hi, I'm Percy Cubas
 
-AI & Machine Learning Engineer from Peru. I build end-to-end ML systems, from data acquisition and model training to cloud deployment, with a focus on computer vision, LLMs, and robotics.
+Computer Vision / AI Engineer from Peru. I take detection and segmentation systems end to end, from data acquisition and training to optimized inference on edge and cloud.
 
 ### What I'm working on
 
-- **AI Engineer @ Indra**: Defect detection pipelines, Agentic RAG platforms, and automated QA systems
-- **CV Engineer @ LABINM - UPAO**: Precision agriculture research with ROS-based mobile robots
-- **[LabelFlow](https://github.com/pQbas/label-flow)**: Open-source video annotation tool with optical flow propagation
+- **AI Engineer @ Indra**: defect detection on scanned documents (YOLO) and structured data extraction from PDFs (DocLayout-YOLO + visual embeddings)
+- **CV Engineer @ LABINM - UPAO**: real-time blueberry detection and counting (YOLO + BoT-SORT, mAP50 0.87), optimized to 16 ms inference with TensorRT FP16 on Jetson Xavier
+- **[LabelFlow](https://github.com/pQbas/label-flow)**: open-source video annotation tool with optical-flow label propagation
+
+### Selected projects
+
+- **[mlops-blueberry-counting](https://github.com/pQbas/mlops-blueberry-counting)**: YOLO detector + tracking pipeline for counting blueberries in video
+- **[mlops-classification-blueberry](https://github.com/pQbas/mlops-classification-blueberry)**: ripeness classification with a versioned training pipeline
+- **[vslam-notebooks](https://github.com/pQbas/vslam-notebooks)**: visual SLAM experiments and notes
 
 ### Tech I work with
 
-`Python` `C++` `TypeScript` `PyTorch` `OpenCV` `YOLO` `ONNX` `ROS` `AWS` `FastAPI` `Django` `React` `PostgreSQL` `Docker`
+`Python` `C++` `PyTorch` `YOLO` `Detectron2` `ONNX` `TensorRT` `ROS` `AWS` `FastAPI`
 
 ### Let's connect
 
