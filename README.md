@@ -12,6 +12,7 @@ Engineer with 4 years of experience across academia and industry, developing AI 
 ### Selected projects
 
 - **[LabelFlow](https://github.com/pQbas/label-flow)**: open-source video annotation tool with optical-flow label propagation
+- **[mlops-detection](https://github.com/pQbas/mlops-detection)**: MLOps framework to train and evaluate YOLO detectors (v8-v11) with YAML-defined experiments and hyperparameter sweeps
 - **[mlops-blueberry-counting](https://github.com/pQbas/mlops-blueberry-counting)**: YOLO detector + tracking pipeline for counting blueberries in video
 - **[mlops-classification-blueberry](https://github.com/pQbas/mlops-classification-blueberry)**: ripeness classification with a versioned training pipeline
 - **[vslam-notebooks](https://github.com/pQbas/vslam-notebooks)**: visual SLAM experiments and notes
