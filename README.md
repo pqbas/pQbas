@@ -1,21 +1,17 @@
 ## Hi, I'm Percy Cubas
 
-Engineer with 4 years of experience across academia and industry, developing AI and CV based systems with a focus on optimized inference, versioned training cycles, and reproducible data pipelines.
+Engineer building full stack platforms for robotics applications, computer vision systems, and LLM integrations with RAG, deployed on AWS. I enjoy working at the intersection of software, robotics, and AI, and I'm looking to bring my experience to new domains.
 
 ### Experience
 
-- **AI Engineer @ Indra** (2025 - present): defect detection on scanned documents (YOLO) and structured data extraction from PDFs (DocLayout-YOLO + visual embeddings)
-- **CV Engineer @ LABINM - UPAO** (2024 - present): real-time blueberry detection and counting (YOLO + BoT-SORT, mAP50 0.87), optimized to 16 ms inference with TensorRT FP16 on Jetson Xavier
-- **AI Implementation Engineer @ YaVendio** (2024 - 2025): LLM sales agents over real customer conversations in production (LangGraph)
-- **Jr. Full Stack Developer @ IDEGO** (2024): backend microservices for Maersk Peru's order management platform (Django on Azure)
+- **AI Engineer @ Indra** (2025.10 - present)
+- **AI Implementation Engineer @ YaVendio** (2024.12 - 2025.09)
+- **Computer Vision Engineer @ UPAO** (2024.08 - 2025.08)
+- **Full Stack Developer @ IDEGO STANDARD** (2024.03 - 2024.12)
 
 ### Selected projects
 
-- **[LabelFlow](https://github.com/pQbas/label-flow)**: open-source video annotation tool with optical-flow label propagation
-- **[mlops-detection](https://github.com/pQbas/mlops-detection)**: MLOps framework to train and evaluate YOLO detectors (v8-v11) with YAML-defined experiments and hyperparameter sweeps
-- **[mlops-blueberry-counting](https://github.com/pQbas/mlops-blueberry-counting)**: YOLO detector + tracking pipeline for counting blueberries in video
-- **[mlops-classification-blueberry](https://github.com/pQbas/mlops-classification-blueberry)**: ripeness classification with a versioned training pipeline
-- **[vslam-notebooks](https://github.com/pQbas/vslam-notebooks)**: visual SLAM experiments and notes
+- **[robot-platform](https://github.com/pQbas/robot-platform)**: software platform for mobile robots running computer vision applications
 
 ### Tech I work with
 
