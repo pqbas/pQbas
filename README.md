@@ -15,7 +15,11 @@ Engineer building full stack platforms for robotics applications, computer visio
 
 ### Tech I work with
 
-`Python` `C++` `PyTorch` `YOLO` `Detectron2` `ONNX` `TensorRT` `ROS` `AWS` `FastAPI`
+- **Frontend** React, TypeScript, WebRTC
+- **Backend** Python, FastAPI, Django, Node.js, RESTful, WebSocket
+- **Computer Vision / Robotics** PyTorch, OpenCV, YOLO, ROS Noetic, Jetson Xavier
+- **AI/LLM** OpenAI API, AWS Bedrock (Claude, Cohere), LangGraph, RAG (hybrid search, reranking)
+- **Cloud** AWS (Lambda, Step Functions, SageMaker, DynamoDB, S3, CloudFront, Transcribe, CDK, API Gateway, CloudWatch)
 
 ### Let's connect
 
