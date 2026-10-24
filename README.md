@@ -7,11 +7,9 @@ applications.
 
 ### What I build
 
-- [langchain-kapso](https://github.com/pqbas/langchain-kapso) · Put any
-  LangGraph agent on WhatsApp, with a person ready to take over
-- [Zenit](https://github.com/pqbas/zenit) · AI customer
-  service for retail banks, where an agent answers customers and hands off to
-  human advisors with full context
+- [langchain-kapso](https://github.com/pqbas/langchain-kapso) · Put any LangGraph agent on WhatsApp
+- [Zenit](https://github.com/pqbas/zenit) · AI customer service for retail banks
+- [Argos](https://github.com/pqbas/argos) · Real-time crop counting on field robots
 
 ### Links
 
