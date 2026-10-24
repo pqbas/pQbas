@@ -1,8 +1,9 @@
 ## Percy Cubas
 
-AI Engineer shipping GenAI systems. I enjoy taking systems end to end and
-creating real impact through applied AI, following software engineering best
-practices.
+AI Engineer at Indra, building GenAI systems for enterprise clients.
+
+Research collaborator at LABINM, building computer vision systems for robotics
+applications.
 
 ### What I build
 
