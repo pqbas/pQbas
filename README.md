@@ -9,7 +9,7 @@ applications.
 
 - [langchain-kapso](https://github.com/pqbas/langchain-kapso) · Put any
   LangGraph agent on WhatsApp, with a person ready to take over
-- [Zenit](https://github.com/pqbas/factored-hackathon-2026-zenit) · AI customer
+- [Zenit](https://github.com/pqbas/zenit) · AI customer
   service for retail banks, where an agent answers customers and hands off to
   human advisors with full context
 
