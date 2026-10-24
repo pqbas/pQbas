@@ -1,4 +1,4 @@
-## Hi, I'm Percy
+## Percy Cubas
 
 AI Engineer shipping GenAI systems. I enjoy taking systems end to end and
 creating real impact through applied AI, following software engineering best
